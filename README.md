@@ -13,4 +13,4 @@ Link do repositório: [https://www.kaggle.com/datasets/jessemostipak/hotel-booki
 
 ## <strong>⚒️ Passo a passo:<strong>
 - Tratamento da base: limpeza, criação e ajuste das variáveis de data, numéricas e categóricas.
-- Análise exploratória dos dados: Responde
+- Análise exploratória dos dados: Responder as perguntas. 
